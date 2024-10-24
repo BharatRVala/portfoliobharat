@@ -3,6 +3,7 @@ import '../App.css';
 import deviImage from '../assets/devi.png';
 import myself from '../assets/myself.png';
 import giti from '../assets/github.png';
+import githubImage from '../assets/github.png';
 import Demo from '../assets/Demo.png';
 import Type from '../components/Type';
 
